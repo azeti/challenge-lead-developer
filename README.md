@@ -1,6 +1,6 @@
 # :v: Welcome :v:
 
-Thank you very much for taking the time and partiicpating in the challenge for the role of Lead User Experience Designer with us at azeti. 
+Thank you very much for taking the time and partiicpating in the challenge!
 
 # :alarm_clock: Logistics and Expectations
 
@@ -20,7 +20,7 @@ _Your presentation could be of any form (Word, Miro, Markup Document, Powerpoint
  
 __How can I submit my results?__
 
-_Please commit your code to a repository and share it with. Afterwards we'll schedule a presentation with you where you'd walk us through your approach to the challenge and present what you've did. The presentation will take 60 to 90 minutes and you can schedule it via this link once you're ready._
+_Please commit your code to a repository and share it with. Afterwards we'll schedule a presentation with you where you'd walk us through your approach to the challenge and present what you've did. The presentation will take 60 to 90 minutes and you can schedule it via [this link once you're ready](https://calendly.com/seb-azeti/60min)._
 
 __Deadline__
 
@@ -65,7 +65,7 @@ Our azeti IoT Platform ingests messages via MQTT through ActiveMQ which is conne
 1. Develop a small prototype (Backend and Frontend) that covers one of the above mentioned use cases. Your tech stack should consist of an event streaming system (i.e. Kafka, Kinesis, pub/sub, MQTT or similar), ReactJS for the Frontend and utilize one of Java, Kotlin, NodeJS, Typescript.
 2. Demonstrate the prototype and the architecture of it
 
-:attention: _This doesn't have to be a full blown software project but just a PoC/prototype, don't worry if you cannot cover TDD and a hollistic documentation, this is not expected in this PoC ;-). Surely we love tests but we are aware of the efforts for such a challenge._
+:bulb: _This doesn't have to be a full blown software project but just a PoC/prototype, don't worry if you cannot cover TDD and a hollistic documentation, this is not expected in this PoC ;-). Surely we love tests but we are aware of the efforts for such a challenge._
 
 # Leadership
 
