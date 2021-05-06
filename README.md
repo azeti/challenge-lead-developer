@@ -61,8 +61,8 @@ Our azeti IoT Platform ingests messages via MQTT through ActiveMQ which is conne
 
 ### Use cases
 
-1. It is quite complex for us to connect relational databases from customers and to merge this static relational data with our streaming data. We looked into Kafka and KSQL for that use case. We'd like to enrich streaming data with info from a RDBMs or something as simple as a CSV.
-2. We need to act on incoming messages, i.e. sending alerts via E-Mail or Slack Chat message depending on the message content. Most simply put: Send an alert if temperature is above 25 degrees. More complex: Send a slack chat message if the message contains the phrase "Error". More complex: Right now we use Apache Camel routes to do this with custom Java code.
+1. Merge existing relational data (simplke table) with incoming time series data, i.e. to enrich an incoming message with existing meta data from a RDBMS.
+2. React on the payload of an incoming message, i.e. throw an alert depending on the payload.
 
 ### Your tasks
 
