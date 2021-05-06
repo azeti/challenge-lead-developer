@@ -18,9 +18,9 @@ __How shall i present, Powerpoint?__
 
 _Your presentation could be of any form (Word, Miro, Markup Document, Powerpoint, Mural Board, Trello, Textfile, ...) you like and that suits your known workflow._
  
-__How can I submit my results?__
+__How can I submit my results and present?__
 
-_Please commit your code to a repository and share it with. Afterwards we'll schedule a presentation with you where you'd walk us through your approach to the challenge and present what you've did. The presentation slot is set to maximum 90 minutes and you can schedule it via [this link once you're ready](https://calendly.com/seb-azeti/lead-iot-challenge)._
+_First, [book a slot for your presentation in advance](https://calendly.com/seb-azeti/lead-iot-challenge). The presentation slot is set to maximum 90 minutes. Secondly, commit your code to a repository and share (linkl or ZIP including your gitlog) it with us through the designated slack channel that you'll be givent to._
 
 __Deadline__
 
