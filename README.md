@@ -6,7 +6,7 @@ Thank you very much for taking the time and partiicpating in the challenge!
 
 We know that you'd be using your precious free time to work on this challenge and therefore we want to set clear expectations to ensure that your time is spent reasonably and to avoid that you waste or invest too much. Again we appreciate you participating.
 
-__How much time should i spend?__
+__How much time should I spend?__
 
 _A resonable amount of time is a couple of hours, most probably less than half a day._
 
@@ -14,7 +14,7 @@ __How do you evaluate the result?__
 
 _We will not grade or evaluate based on quantity but on quality. We'd invite you to present your results to our team which is a great chance to meet your (potential) new colleagues._
 
-__How shall i present, Powerpoint?__
+__How shall I present, Powerpoint?__
 
 _Your presentation could be of any form (Word, Miro, Markup Document, Powerpoint, Mural Board, Trello, Textfile, ...) you like and that suits your known workflow._
  
@@ -28,9 +28,10 @@ Please submit your results until __24th of May 2021 and schedule a slot for the 
 
 # Challenge Overview
 
-The challenge consists of two parts including options you can choose from (choose one! a, b or c):
+The challenge consists of a technical and a leadership section. The technology section offers four options that you can choose one of to proceed with. We give options to ensure that every candidate can select the most time effective option for herself. If you don't see any option matching, let us know and suggest a different approach, we're happy to consider as we're aware of time and efforts to participate in a recruitiing challenge.
+
 1. Technology
-The technology challenge must include some backend code, ideally in Java or Kotlin.
+__The technology challenge must include backend code, ideally in Java or Kotlin.__
 
    * a) Present an existing software project of yours
    * b) Create a prototype and present it
@@ -41,9 +42,9 @@ The technology challenge must include some backend code, ideally in Java or Kotl
 
 # Technology
 
-The main purpose of this challenge is to review code that you've written and to evaluate if you can explain your workflow or an architecture to the team. We don't expect full blown software projects in the prototpye. This is intended to be a show case of your software engineering skillset.
+The technology section is intended to be a show case of your software engineering skillset. 
 
-__Pick one of the two (a or b) technology tasks.__
+__Select only one of the following options!__
 
 ## a) Present an existing software project of yours
 
