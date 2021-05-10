@@ -24,7 +24,7 @@ _First, [book a slot for your presentation in advance](https://calendly.com/seb-
 
 __Deadline__
 
-Please submit your results until __24th of May 2021 and schedule a slot for the presentation. We designated the last week of May 2021 for the presentation slots. [Use this link to schedule it](https://calendly.com/seb-azeti/lead-iot-challenge).__
+Please submit your results until __4th of June 2021 and schedule a slot for the presentation. We designated the second week of June 2021 for the presentation slots. [Use this link to schedule it](https://calendly.com/seb-azeti/lead-iot-challenge).__
 
 # Challenge Overview
 
